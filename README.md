@@ -1,0 +1,1 @@
+Trying different methods to pack svgs
